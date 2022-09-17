@@ -154,4 +154,9 @@ public class model_siswa implements controller_siswa{
             siswa.rbPerempuan.setSelected(true);
         }
     }
+
+    @Override
+    public void hapus2(form_siswa siswa) throws SQLException {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
