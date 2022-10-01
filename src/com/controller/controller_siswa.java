@@ -20,4 +20,5 @@ public interface controller_siswa {
     public void klikTabel(form_siswa siswa) throws SQLException;
     public void hapus2(form_siswa siswa) throws SQLException;
     public void ubah2(form_siswa siswa) throws SQLException;
+      public void klikTabel2(form_siswa siswa) throws SQLException;
 }
